@@ -1,2 +1,2 @@
-# webDevProjects
-Web Development Projects
+# Web Development Projects
+Web Development Projects Practice
